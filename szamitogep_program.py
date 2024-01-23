@@ -49,3 +49,4 @@ if dontes == True:
     print("Van ilyen gép")
 else:
     print("Nincs ilyen gép")
+

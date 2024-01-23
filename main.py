@@ -12,3 +12,4 @@
 #     print("Prím? Nem prím")
 # else:
 #     print("NEm prim")
+
